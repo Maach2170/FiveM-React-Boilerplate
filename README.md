@@ -1,8 +1,8 @@
 
-# Basic Nui React JS Script Template
+# Basic Nui React JS Script Boilerplate
 
 Boilerplate To Use ReactJS With Your FiveM Server!
-<h2>ReactJS & Vite 7 SASS</h2>
+*ReactJS & Vite & SASS*
 
 
 ## Prerequisites
